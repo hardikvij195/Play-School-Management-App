@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765947254442",
+    "firebase_url": "https://playschool-b7eee.firebaseio.com",
+    "project_id": "playschool-b7eee",
+    "storage_bucket": "playschool-b7eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765947254442:android:f3eda463673c72b16522d3",
+        "android_client_info": {
+          "package_name": "com.hvtechnologies.playschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765947254442-2s6hm0mugs1o2ehctbqcdrn71q82kf4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyco_1K-X7gDVirhU1UzGs6qqorAA1aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765947254442-2s6hm0mugs1o2ehctbqcdrn71q82kf4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
